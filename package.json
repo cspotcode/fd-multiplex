@@ -3,6 +3,9 @@
   "author": "Andrew Bradley <cspotcode@gmail.com>",
   "name": "fd-multiplex",
   "version": "0.0.1",
+  "bin": {
+    "fd-multiplex": "out/index.js"
+  },
   "dependencies": {
     "tslib": "^1.9.3"
   },
