@@ -1,0 +1,20 @@
+{
+  "license": "MIT",
+  "author": "Andrew Bradley <cspotcode@gmail.com>",
+  "name": "fd-multiplex",
+  "version": "0.0.0",
+  "dependencies": {
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.10.1",
+    "source-map-support": "^0.5.9",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "files": [
+    "src",
+    "out",
+    "tsconfig.json"
+  ]
+}
