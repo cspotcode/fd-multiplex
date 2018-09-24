@@ -1,4 +1,6 @@
 param(
+    <# clean #>
+    [switch]$clean,
     <# Compile typescript #>
     [switch]$build,
     <# run npm version #>
