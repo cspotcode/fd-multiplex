@@ -2,7 +2,7 @@
   "license": "MIT",
   "author": "Andrew Bradley <cspotcode@gmail.com>",
   "name": "fd-multiplex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": {
     "fd-multiplex": "out/index.js"
   },
