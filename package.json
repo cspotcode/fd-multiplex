@@ -2,7 +2,7 @@
   "license": "MIT",
   "author": "Andrew Bradley <cspotcode@gmail.com>",
   "name": "fd-multiplex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "tslib": "^1.9.3"
   },
