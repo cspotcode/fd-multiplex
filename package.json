@@ -6,6 +6,12 @@
   "bin": {
     "fd-multiplex": "out/index.js"
   },
+  "keywords": [
+    "file descriptor",
+    "docker",
+    "pipe",
+    "fork"
+  ],
   "homepage": "https://github.com/cspotcode/fd-multiplex/",
   "repository": {
     "type": "git",
